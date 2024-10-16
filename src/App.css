@@ -1,0 +1,13 @@
+body{
+  padding: 0px;
+  margin: 0p;   
+}
+/* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+div::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for other browsers (e.g., Firefox) */
+div {
+  scrollbar-width: none;
+}
